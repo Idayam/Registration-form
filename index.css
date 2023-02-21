@@ -1,0 +1,31 @@
+.container{
+    background-color: cornflowerblue;
+
+  }
+  .signup{
+    color: blue
+  }
+  .start{
+    color:blueviolet;
+  }
+  .lable{
+    color: violet;
+  }
+  .body{
+    background-color: white;
+    text-align: center;
+  }
+  #zoho{
+    align-items: left;
+
+  }
+  .form{
+background-color:white
+  text-align center
+  font-size larger
+  }
+  .image{
+    float: left;
+    width: 40%;
+  }
+  
